@@ -1,0 +1,640 @@
+*{
+    margin: 0;
+}
+.header
+{
+   background-image: url("https://www.cordeliacruises.com/images/kochi/banner-desktop.webp");
+   
+background-size:cover;
+background-repeat: no-repeat;
+   width:1349px;
+   height:695px
+ 
+
+}
+.logo-img
+{
+    width: 100px;
+    height: 102.31px;
+    padding-left: 65px;
+    padding-top: 24px;
+   
+}   
+.textkochi
+{
+    width:524px;
+    height:91.59px;
+    color:#FFFFFF;
+    text-transform: uppercase;
+    font-size: 54px;
+    letter-spacing: 18px;
+    font-family: 'Roboto',sans-serif;
+    font-weight: 100;
+    padding-left: 520px;
+    padding-top: 85px;
+}
+.text-queen
+{
+    padding-left: 537px;
+    font-size: 21px;
+    padding-top: 1px;
+    color: #FFFFFF;
+}
+.waveicon
+{
+    padding-left: 581px;
+    padding-top: 15px;
+}
+
+.center{
+    background-color: #FFFFFF;
+    height: 64px;
+    width: 1183px;
+    margin-left: 72px;
+    margin-right: 23px;
+    padding: 10px;
+    padding-top: 22px;
+    margin-top: 47px;
+   
+}
+.table{
+    height: 74px;
+    width: 91%;
+    background-color: #FFFFFF;
+    margin-left: 54px;
+    margin-top: 55px;
+    padding-left: 14px;
+    padding-top: 18px;
+}
+.tableclass{
+    height: 20px;
+    width: 283px;
+    border: none;
+    border-bottom: 1px solid;
+    outline: none;
+    
+
+}
+.tableemail
+{
+    position: relative;
+    left: 49px;
+    top: 3px;
+    width: 289px;
+    border: none;
+    outline: none;
+    border-bottom: 1px solid black;
+}
+.selectop
+{
+    border: none;
+    border-right: 1px solid black;
+    border-bottom: 1px solid black;
+    margin-left: 53px;
+    height: 30px;
+    top: -5%;
+    left: 4px;
+    position: relative;
+}
+
+.form input
+{
+    margin-left: 53px;
+    margin-top: 33px;
+    width: 280px;
+    height: 26px;
+    border: none;
+    border-bottom: 1px solid gray;
+}
+ .space{
+     margin-left: 20px;
+ }
+ .button
+ {
+    width: 142px;
+    height: 58px;
+    color: #FFFFFF;
+    background-color: #f2705a;
+    border: 0;
+    margin-left: 36px;
+    position: relative;
+    left: 38px;
+    top: -9px;
+    cursor: pointer;
+ }
+ .checktext
+ {
+    background-color: rgb(12, 77, 162);
+    border: 1px solid rgb(12, 77, 162);
+    height: 35px;
+    width: 35px;
+    margin-left: 70px;
+    margin-top: 35px;
+ }
+.pge1para
+ {
+    color: #FFFFFF;
+    font-size: 16px;
+    font-family: 'Roboto',sans-serif;
+    margin-left: 130px;
+    margin-top: -29px;
+ }
+ .page2
+ {
+    height:406.25px;
+    width: 1349px;
+     background-color:#e2e8f0;
+     padding-top: 0px;
+ }
+.apage{
+    background-color: #e2e8f0;
+    height: 322.78px;
+    width: 520.5px;
+    margin-left: 50px;
+    float:left;
+    margin-top: 60px;
+ 
+
+}
+
+
+.pge2header
+{
+    color: #90278e;
+    font-weight: 700;
+    width: 520.5px;
+    height:127px;
+    font-size: 46px;
+    font-family: 'Roboto',sans-serif;
+}
+.para{
+    width:520.5px;
+    height:124.78px;
+    font-family: 'Roboto',sans-serif;
+    padding-top: 26px;
+    font-size:16px;
+    text-decoration: space;
+    line-height: 20px;
+}
+.move
+{
+    width: 86.47px;
+    height: 19px;
+    margin-left: 435px;
+    
+    font-family: 'Roboto',sans-serif;
+    font-size: 16px;
+    color: #F2705A;
+    cursor: pointer;
+    margin-top: 17px;
+}
+.bpage
+{
+    width:679.5;
+    height:428.25;
+    background-color: #9027;
+}
+.imagepage
+{
+    background-color: #e2e8f0;
+    height: 406.25px;
+    width: 684px;
+    float: right;
+    margin-right: 0px
+}
+.pic{
+    height: 406.25px;
+    width:684px;
+}
+
+.page3
+{
+    width:1349px;
+    height:1015.7px;
+background-image: url("./images/backgoundimg_page3.jpg");
+}
+
+
+.text3
+{
+    width: 297px;
+    height: 77.5px;
+    
+    font-family: 'Roboto',sans-serif;
+    margin-left: 521px;
+    font-size: 47px;
+    font-family: 'Roboto',sans-serif;
+    padding-top: 60px;
+    color: #FFFFFF;
+}
+.content3
+{
+  
+    margin-top: 45px;
+    text-align: center;
+    font-size: 18px;
+    font-family: 'Roboto',sans-serif;
+    color: #FFFFFF;
+}
+.grida
+{
+    width: 391px;
+    height: 622px;
+    text-align: center;
+    background-color: #FFFFFF;
+    margin-left:44px;
+    margin-top: 85px;
+    font-family: 'Roboto',sans-serif;
+}
+.pica
+{
+    width: 391px;
+    height: 267.7px;
+    display: flex;
+}
+.night
+{
+    color: #90278E;
+    font-weight: 700;
+    font-family: 'Roboto',sans-serif;
+    font-size: 26px;
+    padding-top: 14px;
+}
+.mumbai{
+    color: #F2705A;
+    font-family: 'Roboto',sans-serif;
+    font-size: 15px;
+    PADDING-TOP: 42px;
+}
+.text_page3
+{
+    color: #000000;
+  padding-top: 22px;
+    font-size: 14px;
+    font-family: 'Roboto',sans-serif;
+    line-height: 23px;
+}
+.start3
+{
+    color: #000000;
+    font-size: 15px;
+    font-family: 'Roboto',sans-serif;
+    padding-top: 88px;
+}
+.rupee
+{
+    color: #90278E;
+    font-size: 30px;
+        padding-top: 20px;
+}
+.sub
+{    color: #000000;
+    font-size: 15px;
+}
+.card{
+    display: flex;
+    padding-left: 27px;
+
+}
+.grida1
+{
+    width: 391px;
+    height: 622px;
+    text-align: center;
+    background-color: #FFFFFF;
+    margin-left:44px;
+    margin-top: 85px;
+    font-family: 'Roboto',sans-serif;
+    margin-left: 16px;
+}
+.grida3
+{
+    width: 391px;
+    height: 622px;
+    text-align: center;
+    background-color: #FFFFFF;
+    margin-left:44px;
+    margin-top: 85px;
+    font-family: 'Roboto',sans-serif;
+    margin-left: 16px;
+}
+
+.page4
+{
+
+    width: 1349px;
+    height:485.77px;;
+    background-color:#e2e8f0;
+    padding-top: 92px;
+    display: flex;
+}
+.apage4
+{
+  
+    width: 521px;
+    height: 430.97px;
+    margin-left: 68px;
+}
+.page4header
+{
+    color: #90278e;
+    font-family: 'Roboto',sans-serif;
+    font-size: 43px;
+}
+.textpage4
+{
+    color: #5C5C5C;
+    font-size: 16px;
+    font-family: 'Roboto',sans-serif;
+    padding-top: 42px;
+
+}
+.page4content
+{
+    color: #F2705A;
+    font-size: 25px;
+    font-family: 'Roboto',sans-serif;
+    padding-top: 26px;
+}
+.parapage4
+{
+    font-family: 'Roboto',sans-serif;
+    padding-top: 16px;
+    font-size: 16px;
+
+}
+.para2page4
+{
+    font-family: 'Roboto',sans-serif;
+    padding-top: 18px;
+    font-size: 16px;
+}
+
+
+.bpage4
+{
+    margin-top: -27px;
+    width: 680px;
+    height: 428.56px;
+    margin-left: 80px;
+}
+.page4img
+{
+    width: 680px;
+    height: 428.56px;
+}
+.card1
+{
+    display: flex;
+    padding-left: 48px;
+}
+.page5
+{
+width:1349px;
+height:1168.2px;
+background-image: url("./images/page5backgroundimg.jpg");
+}
+.page5img
+{
+    margin-top: -20px;
+    margin-left: 505px;
+    width: 42px;
+    cursor: pointer;
+}
+.page5pic
+{
+    margin-top: -25px;
+    width: 42px;
+    margin-left: -449px;
+    cursor: pointer;
+}
+
+.text5
+{
+    color: #FFFFFF;
+    font-family: 'Roboto',sans-serif;
+    font-size: 45px;
+    padding-top: 69px;
+
+}
+
+.para5
+{
+    height: 20px;
+    width: 1233px;
+    color: #fff;
+    font-family: 'Roboto',sans-serif;
+    font-size: 19px;
+    margin-top: 42px;
+    margin-left: 88px;
+}
+
+.inpage5
+{
+    text-align: center;
+    padding-top: 47px;
+    
+    margin-left: -24px;
+    
+}
+.explanation5
+{
+    font-size: 15px;
+    padding-top: 51px;
+    line-height: 19px;
+}
+.bullet
+{
+    color: #90278E;
+    padding-top: 39px;
+}
+.butext
+{
+    color: #000000;
+    text-align: left;
+    font-size: 14px;
+    padding-top: 11px;
+    font-weight: 100px;
+}
+.grida5
+{
+    width: 391px;
+    text-align: center;
+    background-color: #FFFFFF;
+    margin-left:44px;
+    margin-top: 85px;
+    font-family: 'Roboto',sans-serif;
+    height: 774px;
+}
+.grida6
+{
+    width: 391px;
+    text-align: center;
+    background-color: #FFFFFF;
+    margin-left: 17px;
+    margin-top: 85px;
+    font-family: 'Roboto',sans-serif;
+    height: 774px;
+}
+.grida7
+{
+    width: 391px;
+    text-align: center;
+    background-color: #FFFFFF;
+    margin-left: 17px;
+    margin-top: 85px;
+    font-family: 'Roboto',sans-serif;
+    height: 774px;
+}
+.page6
+{
+    width: 1349px;
+    height: 892.5px;
+background-color: #e2e8f0;
+}
+.header6
+{
+    text-align: center;
+    font-size: 45px;
+    color: #90278e;
+    font-family: 'Roboto',sans-serif;
+    padding-top: 63px;
+}
+.box1
+{
+    width: 560px;
+    height: 282.25px;
+    margin-left: 70px;
+    margin-top: 98px;
+    float: left;
+}
+.b1text
+{
+    color: #90278e;
+    font-family: 'Roboto',sans-serif;
+    font-size: 26px;
+    margin-top: -48px;
+    margin-left: 67px;
+}
+.b1para
+{
+    font-family: 'Roboto',sans-serif;
+    font-size: 15px;
+    padding-top: 23px;
+    line-height: 19px;
+}
+.b1endtext
+{
+    font-family: 'Roboto',sans-serif;
+    font-size: 15px;
+    padding-top: 23px;
+}
+.bx1button
+{    width: 172px;
+    height: 54px;
+    border: none;
+    background-color: #F2705A;
+    color: #FFFFFF;
+    margin-top: 28px;
+    font-size: 16px;
+    cursor: pointer;
+}
+.page6icon
+{
+    margin-left: 1225px;
+    
+}
+.callicon
+{
+    margin-top: -76px;
+    cursor: pointer;
+
+}
+
+.page7
+{
+    width:1349px;
+    height: 499px;
+    background-color: #90278E;
+    padding-top: 87px;
+    
+}
+.page7bx1
+{
+    width: 378.39px;;
+    height: 313px;
+   
+    margin-left: 72px;
+    float: left;
+}
+.logo-img-page7
+{
+    width: 100px;
+    height: 102.31px;
+}
+.page7text
+{
+    color: #FFFFFF;
+    font-size: 18px;
+    padding-top: 17px;
+}
+.page7bx2
+{
+    width: 171.97px;
+    height:313px;
+    
+    margin-left: 230px;
+    float: left;
+}
+.page7bx3
+{
+    width: 240.97px;
+    height:313px;
+   
+    margin-left: 230px;
+    float: left;
+}
+.headerpage7
+{
+font-size: 19px;
+font-family: 'Roboto',sans-serif;
+color: #FFFFFF;
+
+}
+.footer
+{    margin-top: 75px;
+}
+.f1
+{
+    padding-top: 27px;
+    font-family: 'Roboto',sans-serif;
+color: #FFFFFF;
+}
+.footerline
+{
+    width:1220px;
+    height: 1px;
+    background-color:#e2e8f0 ;
+    margin-left: 64px;
+    margin-top: 407px;
+}
+.end
+{
+    text-align: center;
+    font-size: 16px;
+    color: #FFFFFF;
+    font-family: 'Roboto',sans-serif;
+    padding-top: 35px;
+}
+.iconpage7
+{
+    color: #FFFFFF;
+    
+    margin-left: -60px;
+    padding-top: 54px;
+
+}
+i
+{
+    padding-left: 61px;
+}
